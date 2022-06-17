@@ -20,7 +20,7 @@ Dillinger ist ein Cloud-fähiger, mobilfähiger, Offline-Speicher, AngularJS-bas
 
 - Geben Sie links etwas Markdown ein
 - Siehe HTML rechts
-- Magic
+- Magieпи
 
 # Stimmt
 
