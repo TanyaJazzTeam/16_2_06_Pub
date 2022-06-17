@@ -25,7 +25,6 @@ Dillinger ist ein Cloud-fähiger, mobilfähiger, Offline-Speicher, AngularJS-bas
 # Stimmt
 
 - Importieren Sie eine HTML-Datei und beobachten Sie, wie sie auf magische Weise in Markdown konvertiert wird
-- Bilder ziehen und ablegen (erfordert die Verknüpfung Ihres Dropbox-Kontos)
 
 Du kannst auch:
 
