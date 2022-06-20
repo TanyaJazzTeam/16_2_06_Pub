@@ -1,0 +1,87 @@
+{
+  "materics": [
+    {
+      "name": "Еўропа",
+      "countres": [
+        {
+          "capital": "Мінск",
+          "lup": "12qwww",
+          "bool": "фальшывы"
+        },
+        {
+          "name": "Расія",
+          "bool": "праўда"
+        }
+      ]
+    },
+    {
+      "name": "Азіі",
+      "countres": [
+        {
+          "capital": "Пекін",
+          "population": " 1,386 млрд"
+        },
+        {
+          "name": "Японія",
+          "capital": "Токіо",
+          "population": "126,8 млн"
+        }
+      ]
+    },
+    {
+      "name": "Аўстралія",
+      "countres": [
+        {
+          "name": "Аўстралія",
+          "capital": "Канбера",
+          "population": "24,6 млн"
+        }
+      ]
+    },
+    {
+      "name": "Афрыка",
+      "countres": [
+        {
+          "name": "Егіпет",
+          "capital": "Каір",
+          "population": "97,55 млн"
+        },
+        {
+          "name": "Алжыр",
+          "capital": "Алжыр",
+          "population": "41,32 млн"
+        }
+      ]
+    },
+    {
+      "name": "Паўночная Амерыка",
+      "countres": [
+        {
+          "name": "Канада",
+          "capital": "Атава",
+          "population": "37,59 млн"
+        },
+        {
+          "name": "ЗША",
+          "capital": "Вашынгтон",
+          "population": "327,2 млн"
+        }
+      ]
+    },
+    {
+      "name": "Паўднёвая Амерыка",
+      "countres": [
+        {
+          "name": "Бразілія",
+          "capital": "Бразілія",
+          "population": "209,3 млн"
+        },
+        {
+          "name": "Чылі",
+          "capital": "Сант'яга",
+          "population": "18,05 млн"
+        }
+      ]
+    }
+  ]
+}
