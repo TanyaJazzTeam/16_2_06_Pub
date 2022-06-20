@@ -4,12 +4,15 @@
       "name": "Еўропа",
       "countres": [
         {
+          "name": "Беларусь",
           "capital": "Мінск",
           "lup": "12qwww",
+          "population": "9,5 мільёна",
           "bool": "фальшывы"
         },
         {
           "name": "Расія",
+          "capital": "Масква",
           "bool": "праўда"
         }
       ]
@@ -18,6 +21,7 @@
       "name": "Азіі",
       "countres": [
         {
+          "name": "Кітай",
           "capital": "Пекін",
           "population": " 1,386 млрд"
         },
